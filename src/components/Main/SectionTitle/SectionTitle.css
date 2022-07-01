@@ -1,0 +1,40 @@
+/* 
+============
+Section Title
+=============
+ */
+
+.section-title {
+  display: grid;
+  place-items: center;
+  padding: 1.3125rem 0;
+}
+
+.section-title h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.5625rem;
+  line-height: 1.875rem;
+}
+
+.section-title > p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.8rem;
+  line-height: 0.9375rem;
+  color: #f3bf99;
+  margin-top: 0.39rem;
+}
+.profile-link {
+  margin: 0.51rem 0;
+}
+.profile-link a {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.64rem;
+  line-height: 0.9375rem;
+  color: #f5f5f5;
+  text-decoration: none;
+}
+
+
