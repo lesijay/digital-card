@@ -1,17 +1,17 @@
 import React from "react";
 import BodyText from "./BodyText";
 
-
 export default function SectionBody() {
   return (
     <div className="text-container">
       <BodyText
         title="About"
-        paragraph="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum fringilla lacinia dolor, et dapibus nulla euismod sit amet. Curabitur eu elit facilisis, efficitur purus cursus, volutpat sapien. Maecenas finibus ultricies odio. Vestibulum venenatis massa lectus, ac iaculis sapien sagittis sit amet."
+        paragraph="
+Purposeful, decisive leader, excellent communicator, very organized, highly adaptive, an inspirational coach and an innovative problem solver and God-lover "
       />
       <BodyText
         title="Interests"
-        paragraph="Cras commodo finibus nisl sed euismod. Praesent efficitur, nisl non tristique ultricies, purus mi fermentum eros, auctor lacinia odio quam vel lorem"
+        paragraph="Software engineering, product management,scrum and agile methodologies, education, civil engineering, coaching, customer success, startups, webinars,  employee growth and development, administration, parenting, relationship management."
       />
     </div>
   );

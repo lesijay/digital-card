@@ -9,22 +9,22 @@ export default function Footer() {
   return (
     <footer className="footer">
       <span>
-        <a>
+        <a href="https://twitter.com/LesiS19" target="_blank">
           <AiFillTwitterSquare />
         </a>
       </span>
       <span>
-        <a>
+        <a href="https://web.facebook.com/lesi.dogbaa/" target="_blank">
           <AiFillFacebook />
         </a>
       </span>
       <span>
-        <a>
+        <a href="https://www.instagram.com/sampsonlesi/" target="_blank">
           <AiFillInstagram />
         </a>
       </span>
       <span>
-        <a>
+        <a href="https://github.com/lesijay" target="_blank">
           <AiFillGithub />
         </a>
       </span>

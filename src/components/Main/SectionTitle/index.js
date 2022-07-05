@@ -5,9 +5,9 @@ export default function SectionTitle() {
   return (
     <div className="section-title">
       <h1>Lesi Sampson</h1>
-      <p>Frontend Developer</p>
+      <p>Frontend Developer | Product Manager</p>
       <p className="profile-link">
-        <a href="#">lesisampson.website</a>
+        <a href="https://lesiwebsite.netlify.app/" target="_blank">lesisampson.website</a>
       </p>
     </div>
   );
